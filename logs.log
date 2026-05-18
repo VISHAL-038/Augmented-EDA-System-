@@ -1,0 +1,24 @@
+2026-05-18 21:51:37,027:WARNING:/Users/mac/Desktop/automated-eda-llm/venv/lib/python3.12/site-packages/ydata_profiling/model/correlations.py:87: UserWarning: There was an attempt to calculate the auto correlation, but this failed.
+To hide this warning, disable the calculation
+(using `df.profile_report(correlations={"auto": {"calculate": False}})`
+If this is problematic for your use case, please report this as an issue:
+https://github.com/ydataai/ydata-profiling/issues
+(include the error message: 'putmask: first argument must be an array')
+  warnings.warn(
+
+2026-05-18 23:16:05,171:WARNING:/Users/mac/Desktop/automated-eda-llm/venv/lib/python3.12/site-packages/ydata_profiling/model/correlations.py:87: UserWarning: There was an attempt to calculate the auto correlation, but this failed.
+To hide this warning, disable the calculation
+(using `df.profile_report(correlations={"auto": {"calculate": False}})`
+If this is problematic for your use case, please report this as an issue:
+https://github.com/ydataai/ydata-profiling/issues
+(include the error message: 'putmask: first argument must be an array')
+  warnings.warn(
+
+2026-05-18 23:38:28,450:WARNING:/Users/mac/Desktop/automated-eda-llm/venv/lib/python3.12/site-packages/ydata_profiling/model/correlations.py:87: UserWarning: There was an attempt to calculate the auto correlation, but this failed.
+To hide this warning, disable the calculation
+(using `df.profile_report(correlations={"auto": {"calculate": False}})`
+If this is problematic for your use case, please report this as an issue:
+https://github.com/ydataai/ydata-profiling/issues
+(include the error message: 'putmask: first argument must be an array')
+  warnings.warn(
+

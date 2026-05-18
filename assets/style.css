@@ -1,0 +1,80 @@
+.main {
+    background-color: #0E1117;
+    color: white;
+}
+
+.stApp {
+    background-color: #0E1117;
+}
+
+h1, h2, h3 {
+    color: #FFFFFF;
+}
+
+[data-testid="metric-container"] {
+    background-color: #1E1E1E;
+    border: 1px solid #333;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.stDataFrame {
+    border-radius: 10px;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.css-1d391kg {
+    background-color: #161B22;
+}
+
+footer {
+    visibility: hidden;
+}
+
+/* ========================================
+   AI Recommendation Card
+======================================== */
+
+.insight-card {
+    background-color: #111827;
+    padding: 25px;
+    border-radius: 18px;
+    border: 1px solid #374151;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: white;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.25);
+}
+
+/* Markdown headings inside cards */
+
+.insight-card h1 {
+    color: #60A5FA;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.insight-card h2 {
+    color: #34D399;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.insight-card h3 {
+    color: #FBBF24;
+    font-size: 20px;
+}
+
+.insight-card p,
+.insight-card li {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.insight-card ul {
+    padding-left: 20px;
+}
